@@ -1,0 +1,47 @@
+header {
+  background-color: black;
+  color: white;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-left: 5%;
+  padding-top: 2%;
+  padding-right: 5%;
+  padding-bottom: 2%;
+}
+h3 {
+  border-bottom-style: outset;
+  border-color: gray;
+  color: gray;
+}
+
+.container {
+  padding-left: 30%;
+  padding-right: 30%;
+  overflow: auto;
+}
+.box {
+  width: 200px;
+  height: 200px;
+  float: right;
+  background-image: src= "/photo.jpg";
+}
+
+form {
+  display: block;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+[type="text"] {
+  padding-left: 30%;
+  padding-right: 40%;
+  background-color: grey;
+}
+#comentario {
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+button {
+  background-color: black;
+  color: white;
+}
